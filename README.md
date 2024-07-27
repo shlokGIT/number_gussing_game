@@ -1,2 +1,2 @@
-                                # TIC TAC TOE 
-this is  tic_tac_toe game by using GUI
+  # NUMBER_GUSSING_GAME
+
